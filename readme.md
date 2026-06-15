@@ -1,171 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fd8,25:a855f7,50:6366f1,75:38bdf8,100:34d399&height=230&section=header&text=Aahana%20Bobade&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=✨%20Backend%20Engineer%20%20•%20%20AI%2FML%20Developer%20%20•%20%20Data%20Scientist%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,25:0072ff,50:6a11cb,75:2575fc,100:00d4ff&height=240&section=header&text=Jatin%20Nayal&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=🚀%20Full%20Stack%20Developer%20•%20MERN%20Engineer%20•%20AI%20Builder&descAlignY=65&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%A7%A0;Exploring+LLMs+%26+RAG+pipelines+%F0%9F%A4%96;Always+learning%2C+always+shipping+%E2%9C%A8;Passionate+about+AI+%26+Data+Science+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;Building+AI-Powered+Web+Applications+🤖;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products+✨;Always+Learning+%26+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-## 💜 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+<img align="right" width="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJxemt5Y2kyZXJ6M3BqejdsZTA1dzdtbzF1OGNqbWIwZTA2YndsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif"/>
 
-&nbsp;&nbsp;Hi! I'm **Aahana**, a software developer who lives at the  
-&nbsp;&nbsp;crossroads of **backend engineering**, **AI/ML**, and **data science**.
+Hi there! I'm **Jatin Nayal** 👋
 
-&nbsp;&nbsp;I love building systems that are not just functional,  
-&nbsp;&nbsp;but genuinely *intelligent* and *scalable*.
+I'm a passionate **Full Stack Developer** focused on building scalable web applications, SaaS products, and AI-powered solutions.
 
-<br/>
+I enjoy transforming ideas into real products that solve practical problems and create meaningful user experiences.
 
-&nbsp;&nbsp;🔭 &nbsp;Working on **scalable backend systems & AI integrations**  
-&nbsp;&nbsp;🤖 &nbsp;Deep interest in **NLP, LLMs & ML pipelines**  
-&nbsp;&nbsp;🌱 &nbsp;Currently exploring **RAG, MLOps & Vector DBs**  
-&nbsp;&nbsp;💬 &nbsp;Talk to me about **Python, APIs, Data Science**  
-&nbsp;&nbsp;⚡ &nbsp;I make data stories that *non-data people* actually get  
+### 🚀 What I'm Doing
 
-<br/>
+- 🔭 Building modern MERN stack applications
+- 🤖 Exploring AI integrations and LLM-powered products
+- 🌱 Learning scalable backend architecture & system design
+- 💡 Creating SaaS products and developer tools
+- ⚡ Passionate about startups, innovation & product development
 
 ---
 
-<br/>
+# 🌐 Connect With Me
 
 <div align="center">
 
-## 🌐 Find Me Here
+<a href="https://github.com/JatinNayal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahana-bobade)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aahanabobade@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aahanabobade)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aahanabobade)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aahanabobade)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aahanabobade1)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aahanabobade/)&nbsp;
-[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aahana.bobade/vizzes)
+<a href="https://www.linkedin.com/in/jatin-nayal-300438353">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jatinsingh89234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
-<br/>
+---
+
+# 💼 Experience
+
+## Web Developer Intern
+### Kyrex Digitech Pvt. Ltd. | Noida
+**Feb 2026 – Apr 2026**
+
+- Developed reusable UI components using React and Next.js
+- Integrated frontend applications with backend APIs
+- Worked collaboratively using Git and GitHub
+- Participated in debugging and feature implementation
+- Gained real-world experience in scalable application development
 
 ---
 
-<br/>
+# 🚀 Featured Projects
+
+## 🤖 DevMorph — AI Website Builder
+
+An AI-powered SaaS platform that generates production-ready websites from natural language prompts.
+
+### ✨ Features
+
+- Conversational AI Website Builder
+- Live Website Preview
+- Version Rollback System
+- Full Source Code Export
+- Credit-Based Monetization
+- Admin Payment Management Panel
+
+### 🛠️ Tech Stack
+
+`React 19` `Node.js` `Express.js` `MongoDB`
+`Redux Toolkit` `JWT` `Tailwind CSS`
+`Dual LLM Pipeline` `Vercel` `Render`
+
+---
+
+## 💻 CodeForge — Coding Platform
+
+A complete coding practice platform with AI-powered learning assistance.
+
+### ✨ Features
+
+- Online Code Editor
+- AI Coding Assistant
+- Solution Video Integration
+- Secure Authentication
+- Problem Management Dashboard
+- Learning Progress Tracking
+
+### 🛠️ Tech Stack
+
+`React`
+`Node.js`
+`Express.js`
+`MongoDB`
+`Redis`
+`Redux Toolkit`
+`Monaco Editor`
+`JWT Authentication`
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-## 💻 Tech Stack
+## Languages
 
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**🌸 Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-ff6fd8?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-38bdf8?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=sqlite&logoColor=white)
+## Frontend
 
-<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**🚀 Backend & APIs**
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-34d399?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-6366f1?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-22c55e?style=for-the-badge&logo=django&logoColor=white)
+## Backend
 
-<br/>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-**🧠 AI · ML · Data Science**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-ef4444?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f97316?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-facc15?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-6366f1?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-38bdf8?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-fbbf24?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-34d399?style=for-the-badge&logo=langchain&logoColor=white)
+## Database
 
-<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🗄️ Databases**
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ef4444?style=for-the-badge&logo=redis&logoColor=white)
+## AI & Modern Development
 
-<br/>
+![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge)
+![AI Applications](https://img.shields.io/badge/AI_Powered_Apps-3B82F6?style=for-the-badge)
 
-**🎨 Frontend**
+---
 
-![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-a855f7?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-34d399?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Tools & Deployment
 
-<br/>
-
-**🛠️ DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-facc15?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-f97316?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-ff6fd8?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 </div>
 
-<br/>
+---
+
+# 📚 Education
+
+### Bachelor of Computer Applications (BCA)
+
+🏛️ Amrapali University
+
+📅 Aug 2023 – Jun 2026
 
 ---
 
-<br/>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-## 📊 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinNayal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aahanabobade&theme=2077" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aahanabobade&theme=2077" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinNayal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aahanabobade&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinNayal&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aahanabobade&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
-
-<br/><br/>
-
-## 🐍 Swallowing My Contributions
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aahanabobade/aahanabobade/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinNayal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br/>
+---
+
+# 🏆 Goals for 2026
+
+- 🚀 Land a Full Stack Developer role
+- 🤖 Build production-ready AI SaaS products
+- 🌐 Contribute to impactful open-source projects
+- 📚 Strengthen System Design & Backend Skills
+- 💼 Launch a startup-worthy product
 
 ---
 
-<br/>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aahanabobade&style=for-the-badge&color=ff6fd8&labelColor=0d001a&label=PROFILE+VIEWS)
+### ⭐ Building Today, Innovating Tomorrow ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=JatinNayal&style=for-the-badge&color=blue)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20aahana&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,25:0072ff,50:6a11cb,75:2575fc,100:00d4ff&height=120&section=footer"/>
 
 </div>
