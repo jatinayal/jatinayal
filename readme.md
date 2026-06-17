@@ -34,7 +34,7 @@ I enjoy transforming ideas into real products that solve practical problems and 
 
 <div align="center">
 
-<a href="https://github.com/JatinNayal">
+<a href="https://github.com/jatinayal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -46,7 +46,7 @@ I enjoy transforming ideas into real products that solve practical problems and 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/jatinayal">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -187,17 +187,17 @@ A complete coding practice platform with AI-powered learning assistance.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JatinNayal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatinayal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinNayal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JatinNayal&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinayal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinNayal&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinayal&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jatinayal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -217,7 +217,7 @@ A complete coding practice platform with AI-powered learning assistance.
 
 ### ⭐ Building Today, Innovating Tomorrow ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=JatinNayal&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=jatinayal&style=for-the-badge&color=blue)
 
 <br/><br/>
 
