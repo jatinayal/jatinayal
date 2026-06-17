@@ -58,7 +58,7 @@ I enjoy transforming ideas into real products that solve practical problems and 
 
 ## Web Developer Intern
 ### Kyrex Digitech Pvt. Ltd. | Noida
-**Feb 2026 – Apr 2026**
+**Feb 2026 – Jul 2026**
 
 - Developed reusable UI components using React and Next.js
 - Integrated frontend applications with backend APIs
