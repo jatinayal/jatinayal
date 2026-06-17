@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJxemt5Y2kyZXJ6M3BqejdsZTA1dzdtbzF1OGNqbWIwZTA2YndsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif"/>
+<img align="right" width="330" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"/>
 
 Hi there! I'm **Jatin Nayal** 👋
 
@@ -199,17 +199,7 @@ A complete coding practice platform with AI-powered learning assistance.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jatinayal&theme=tokyo-night&hide_border=true"/>
 
-<br/><br/>
 
-## 🐍 Swallowing My Contributions
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
 
 
 </div>
