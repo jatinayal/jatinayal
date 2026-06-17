@@ -199,7 +199,21 @@ A complete coding practice platform with AI-powered learning assistance.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jatinayal&theme=tokyo-night&hide_border=true"/>
 
+<br/><br/>
+
+## 🐍 Swallowing My Contributions
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jatinayal/jatinayal/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+
 </div>
+
 
 ---
 
@@ -221,6 +235,6 @@ A complete coding practice platform with AI-powered learning assistance.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,25:0072ff,50:6a11cb,75:2575fc,100:00d4ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,25:38bdf8,50:6366f1,75:a855f7,100:ff6fd8&height=120&section=footer&text=made%20with%20%E2%99%A5%20by%20jatin&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
